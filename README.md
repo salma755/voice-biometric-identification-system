@@ -6,8 +6,10 @@ A Voice Biometric Identification system developed as part of a Pattern Recogniti
 
 ## Project Overview
 <img width="1875" height="958" alt="Screenshot 2026-06-25 034611" src="https://github.com/user-attachments/assets/769c9e40-7850-4b50-b5b9-a27d058841c4" />
+
 Note: Raw audio dataset and source code are not included due to privacy considerations and university course restrictions.
 The system was trained on a custom dataset collected manually from classmates, including both male and female voices in Arabic and English.
+
 
 The dataset included recordings from:
 - Salma
